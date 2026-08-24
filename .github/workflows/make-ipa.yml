@@ -1,8 +1,6 @@
 name: Make ipa
 
-on:
-  push:
-    branches: ["master"]
+
 on: workflow_dispatch
 
 jobs:
